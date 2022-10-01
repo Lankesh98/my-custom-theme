@@ -1,0 +1,4 @@
+Domain: http://dev.wp-test.com/ (Xammp Host)
+
+WP username: Tst_Admini
+WP Password: acT1Tq@xkuiNOHAHf5
